@@ -1,2 +1,2 @@
-# OpenSearch_Vector_Search_w_Fine-tuned_BERT_on_SageMaker
+# OpenSearch Vector Search w Fine-tuned BERT on SageMaker
 Work in Progress - 
